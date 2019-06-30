@@ -1,6 +1,8 @@
 # Used-car-value
 
-[Objective]
+***
+
+##[Objective]
 The number of vehicles per person is increasing. Therefore, used car trade will be brisk and our project will be helpful here.
 
 [Dataset to use]
