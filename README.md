@@ -48,6 +48,6 @@ We used the Decision tree and PCA to analyze our data and achieve low accuracy. 
 In conclusion, we were able to predict the price of used cars through this process, and we learned the importance of preprocessing.
 
 
-
-For database information, visit below website.  
+<br><br>
+### For database information, visit below website.  
 https://www.kaggle.com/orgesleka/used-cars-database
